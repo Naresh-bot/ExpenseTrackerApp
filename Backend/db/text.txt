@@ -1,0 +1,30 @@
+--mongodb atlas
+Cluster0 - cluster name
+-- db user --
+current IP address 106.51.148.217
+muthunareshkumar -username
+0Z2jZMuX601SfyGT  -pwd
+
+----links---
+https://www.mongodb.com/docs/atlas/setup-cluster-security/
+
+
+
+//sample obj
+
+{
+    "title":"naruto uzumaki", 
+    "amount":45, 
+    "category":"Income",
+     "description":"cookie sale", 
+     "date":"01-02-2025" 
+
+}
+
+//frontend
+
+npm config set legacy-peer-deps true
+npx create-react-app mytestapp
+npm install --save-dev ajv@^7 
+
+
