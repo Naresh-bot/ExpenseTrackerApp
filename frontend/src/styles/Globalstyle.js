@@ -13,8 +13,8 @@ export const  GlobalStyle = createGlobalStyle`
     /* --primary-color2:'color: rgba(34,34,96,.6)';
     --primary-color3:'color: rgba(34,34,96,.4)'; */
     --primary-color2: rgba(34,34,96,.6);
-    --primary-color3: rgba(34,34,96,.4);
-    --color-green: #42AD00;
+    --primary-color3: rgba(34,34,96,.4); 
+    --color-green: #42AD00; 
     --color-grey: #aaa;
     --color-accent: #F56692;
     --color-delete: #FF0000;

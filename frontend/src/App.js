@@ -7,7 +7,7 @@ import Orb from "./Components/Orb/Orb";
 
 function App() {
   return (
-    <AppStyled bg={bg} className="App"> 
+    <AppStyled bg={bg}  className="App"> 
     <Orb />
      <MainLayout> 
 
@@ -19,7 +19,7 @@ function App() {
 const AppStyled = styled.div`
 	height:100vh;
   background-image: url(${props => props.bg});
-  /* background-size:cover; //cover- full container  contain- no cropping 
+  /* background-size:cover; //cover- full container  contain- no cropping   
   background-position:center; //remains center
   background-repeat:no-repeat; //does not repeat */
   position: relative; 
